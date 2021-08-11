@@ -1,5 +1,5 @@
 
-## Hi! I'm Nikki 
+## Hi! I'm Nikki... 
  <div>
   <a href="https://github.com/kitsunekamisama">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kitsunekamisama&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
