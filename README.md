@@ -15,7 +15,7 @@
   <img align="center" alt="Nikki-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Nikki-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nikki-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="right" alt="Nikki-bmo" src="https://raw.gitusercontent.com/kitsunekamisama/kitsnekamisama/main/bmo.gif">
+  <img align="right" alt="Nikki-gif" src="https://c.tenor.com/tQVZsHnTSZgAAAAj/pikachu.gif">
 </div>
 
   ##
