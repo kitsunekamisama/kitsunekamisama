@@ -1,8 +1,8 @@
 
 ## Hi! I'm Nikki... 
- <div>
+ <div  align="center" >
   <a href="https://github.com/kitsunekamisama">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=kitsunekamisama&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kitsunekamisama&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   
 </div>
   <h2>Language & Tools</h2>
